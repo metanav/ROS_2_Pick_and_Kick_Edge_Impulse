@@ -1,0 +1,4 @@
+ainex_interfaces/RGB data
+---
+bool success
+string message

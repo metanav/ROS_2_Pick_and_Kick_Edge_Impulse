@@ -1,0 +1,6 @@
+int32[] servo_ids
+
+---
+std_msgs/Int32MultiArray positions
+bool success
+string message
