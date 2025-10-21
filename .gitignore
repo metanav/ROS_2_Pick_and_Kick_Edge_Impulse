@@ -6,7 +6,6 @@ log/
 
 # Compiled files
 *.o
-*.so
 *.a
 *.pyc
 *.class
